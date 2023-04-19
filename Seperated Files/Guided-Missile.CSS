@@ -1,0 +1,25 @@
+canvas {
+    border : 4px solid #e91919;
+    background-color: #cacaca;
+}
+#player1score{
+    background-color: rgb(0, 255, 72);
+    color: blue;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+    position: absolute;
+    top: 100px;
+    left: 510px;
+    
+}
+#player2score{
+    background-color: rgb(0, 255, 72);
+    color: orange;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+    position: absolute;
+    top: 130px;
+    left: 510px;
+}
