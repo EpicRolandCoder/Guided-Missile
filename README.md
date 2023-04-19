@@ -16,4 +16,4 @@ Orange: Arrow Keys
 Many find it much easier to be blue than orange. To make the game more even, keep track
 of how many points each player gets as orange before swapping once blue reaches 50 points.
 
-#The two "Guided-Missile.html" files are NOT the same. The HTML file in "./Separated Files" does not contain Javascript or CSS code in and of itself.
+***The two "Guided-Missile.html" files are NOT the same. The HTML file in "./Separated Files" does not contain Javascript or CSS code in and of itself.
